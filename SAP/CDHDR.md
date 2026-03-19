@@ -28,3 +28,13 @@ Die Kopftabelle zu den Änderungen.
 * **BELEGV** (Vorerfassung?)
     Belege in den Tabellen [[VBKPF]], [[VBSEG]], [[VBSEC]], [[VBSET]]
     Transaktionen [[fbv2]]
+
+* **KOSTL**
+* **MATERIAL**
+* **PRCTR**
+* **KSTAR**
+* **ORDER**
+* **COND_A**
+* **SETS**
+* **CHARGE**
+* **ALLOCATION**

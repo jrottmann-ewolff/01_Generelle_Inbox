@@ -12,4 +12,5 @@ tags:
 * Tabellenname ist die Tabelle, in der die Änderung gemacht wurde
 * Tabelle
 
-
+## Objektklassen
+* Befinden sich in der Tabelle [[TCDOB]]
