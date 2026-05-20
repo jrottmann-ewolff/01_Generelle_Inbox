@@ -3,7 +3,14 @@ Bereich: sap
 tags:
   - meta
   - information
+  - cost_center
+  - kostenstelle
+  - co
+  - internes
+  - rechnungswesen
 ---
+# Beschreibung
+Kostenstelle (engl. cost center)
 
 ## Tabellen
 * CSKS
